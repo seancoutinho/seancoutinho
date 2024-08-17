@@ -7,7 +7,7 @@ const About = () => {
       <div className="orido_tm_about w-full h-auto clear-both float-left bg-[#6244C5] px-0 pt-[180px] pb-[120px] mb-[120px]">
         <div className="about_in w-full h-auto max-w-[1070px] mx-auto my-0 flex items-center">
           <div className="left w-1/2 pr-[50px]">
-            <div className="box about_text bg-[#FFC448] inline-block overflow-hidden pb-[85px] relative">
+            <div className="box about_text bg-[#F9E438] inline-block overflow-hidden pb-[85px] relative">
               <h3 className="year font-oswald tracking-[-4px] font-extrabold text-[395px] relative mr-[-30px] mt-[-95px] text-[#6244C5] leading-[1]">
                 Six
               </h3>

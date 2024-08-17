@@ -1,7 +1,7 @@
 const CopyRight = () => {
   return (
     <div className="orido_tm_section w-full h-auto clear-both float-left">
-      <div className="orido_tm_copyright w-full h-auto clear-both float-left bg-[#FFC448] py-[25px] px-0">
+      <div className="orido_tm_copyright w-full h-auto clear-both float-left bg-[#F9E438] py-[25px] px-0">
         <div className="container">
           <div className="copyright_inner w-full h-auto clear-both flex items-center justify-between">
             <div className="logo">
@@ -19,7 +19,7 @@ const CopyRight = () => {
                   href="https://themeforest.net/user/codeefly"
                   target="_blank"
                 >
-                  Codeefly.
+                  bytestream
                 </a>{" "}
                 All Rights Reserved
               </p>

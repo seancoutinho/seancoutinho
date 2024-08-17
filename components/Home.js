@@ -12,12 +12,12 @@ const Home = ({ dark }) => {
                 Sean Coutinho🖥️
               </h3>
               <span className="job inline-block relative text-[24px] pl-[97px]">
-                Fullstack Software Developer
+                Full-Stack Software Developer
               </span>
             </div>
             <div className="text mb-[70px]">
               <p className="text-[16px] text-[#5A5A5A] leading-[26px] max-w-[400px]">
-                I'm a creative full-stack developer with a passion for responsive web & mobile applications. I specialize with Nextjs, Typescript, tailwind, Nodejs (Express), Prisma.
+                As a seasoned Full-Stack developer, I leverage Next.js to craft modern, server-rendered, and statically generated web applications, combining expertise in React, Node.js, and TypeScript to deliver seamless user experiences. With a focus on performance, scalability, and maintainability, I design and implement robust back-end APIs and intuitive front-end interfaces, ensuring seamless integration and efficient data management.
               </p>
             </div>
             <div className="buttons flex items-center">
@@ -93,7 +93,7 @@ const Home = ({ dark }) => {
         <div className="img relative inline-block">
           <img
             className="max-w-[700px] max-h-[760px]"
-            src={`assets/img/hero/${dark ? "2" : "1"}.jpg`}
+            src={`assets/img/hero/${dark ? "profile-pic" : "profile-pic"}.png`}
             alt
           />
           <div className="video_button">

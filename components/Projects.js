@@ -16,7 +16,7 @@ const Projects = () => {
       className="orido_tm_section w-full h-auto clear-both float-left"
       id="portfolio"
     >
-      <div className="orido_tm_portfolio w-full h-auto clear-both float-left bg-[#FFC448] px-0 pt-[120px] pb-[110px]">
+      <div className="orido_tm_portfolio w-full h-auto clear-both float-left bg-[#F9E438] px-0 pt-[120px] pb-[110px]">
         <div className="container">
           <div className="orido_tm_main_title w-full float-left">
             <h3 className="tracking-[-2px] text-[56px] font-bold">
