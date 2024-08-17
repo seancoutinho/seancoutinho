@@ -9,21 +9,15 @@ const Home = ({ dark }) => {
           <div className="details w-1/2 pr-[50px]">
             <div className="short mb-[32px]">
               <h3 className="text-[80px] font-medium tracking-[-4px] mb-[11px]">
-                John Smith{" "}
-                <img
-                  className="svg w-[45px] h-[45px] relative left-[-7px]"
-                  src="assets/img/svg/hi.svg"
-                  alt
-                />
+                Sean Coutinho🖥️
               </h3>
               <span className="job inline-block relative text-[24px] pl-[97px]">
-                Visual Designer
+                Fullstack Software Developer
               </span>
             </div>
             <div className="text mb-[70px]">
               <p className="text-[16px] text-[#5A5A5A] leading-[26px] max-w-[400px]">
-                I'm creative designer based in New York, and I'm very passionate
-                and dedicated to my work.
+                I'm a creative full-stack developer with a passion for responsive web & mobile applications. I specialize with Nextjs, Typescript, tailwind, Nodejs (Express), Prisma.
               </p>
             </div>
             <div className="buttons flex items-center">

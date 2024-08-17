@@ -9,13 +9,13 @@ const About = () => {
           <div className="left w-1/2 pr-[50px]">
             <div className="box about_text bg-[#FFC448] inline-block overflow-hidden pb-[85px] relative">
               <h3 className="year font-oswald tracking-[-4px] font-extrabold text-[395px] relative mr-[-30px] mt-[-95px] text-[#6244C5] leading-[1]">
-                10
+                Six
               </h3>
-              <span className="experience text-[24px] pl-[50px] mt-[6px] inline-block">
+              <span className="experience font-bold text-white text-[24px] pl-[50px] mt-[6px] inline-block">
                 Years of Experience
               </span>
               <h3 className="name text-[80px] text-[#6244C5] font-bold tracking-[-4px] leading-[1] uppercase absolute bottom-[-30px] left-[-20px] w-[300%]">
-                John Smith
+                Sean Coutinho
               </h3>
             </div>
           </div>
@@ -34,10 +34,10 @@ const About = () => {
             </div>
             <div className="text w-full float-left mb-[50px]">
               <p className="text-[rgba(255,255,255,.7)] font-light leading-[32px]">
-                With 10 years experience as a professional Web developer, I have
+                With 6 years experience as a professional Web developer, I have
                 acquired the skills and knowledge necessary to make your project
                 a success. I enjoy every step of the design process, from
-                discussion and collaboration.
+                discussion and collaboration and team-work.
               </p>
             </div>
             <div className="short w-full float-left flex items-center">
