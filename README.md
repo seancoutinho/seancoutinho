@@ -20,5 +20,5 @@ Code isn't just something I write; it's something I *craft*. I believe in clean,
 ## Let’s Connect! 🤝
 Feel free to check out my repositories and reach out if you want to collaborate on a project or just chat about tech. I'm always open to learning new things and sharing knowledge!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sean-kevin-coutinho-8b5916186/) 
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?style=flat&logo=twitter)](https://twitter.com/seankevcoutinho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeanCoutinho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sean-kevin-coutinho-8b5916186/) 
+[![Twitter](https://img.shields.io/badge/Twitter-SeanCoutinho-blue?style=flat&logo=twitter)](https://twitter.com/seankevcoutinho)
