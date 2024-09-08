@@ -1,4 +1,4 @@
-# Hi there, I'm Sean Coutinho - CEO of Bytestream Technologies! 👋
+# Hi there, I'm Sean Coutinho 👋
 
 I'm a seasoned **Full Stack Developer** with a passion for crafting dynamic, user-centric applications. My journey in the tech world is powered by Next.js, and I'm a strong advocate for TypeScript, ensuring my code is robust and reliable. 🚀
 
