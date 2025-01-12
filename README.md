@@ -1,5 +1,7 @@
 # Hi there, I'm Sean Coutinho 👋
 
+Portfolio https://seancoutinho.vercel.app/
+
 I'm a seasoned **Full Stack Developer** with a passion for crafting dynamic, user-centric applications. My journey in the tech world is powered by Next.js, and I'm a strong advocate for TypeScript, ensuring my code is robust and reliable. 🚀
 
 ## What I Do
